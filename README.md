@@ -11,3 +11,11 @@ Heute habe ich von neu angefangen, weil letze Woche ich am PC zuhause gearbeitet
 - [ ] Neuen "Media Library" Tab erfolgreich erstellen
 - [ ] Content in Media Library hinzufügen
 - [ ] Return to previous Window feature hinzufügen
+
+# Reflexion 24.01 
+Ich habe den ganzen Projekt auf VSCode übertragen, weil ich dachte es wird einfacher sein aber das stimmte nicht. Es tauchten mehr Probleme auf und mit viel hilfe von AI konnte ich sie fixen und die App starten. Die App sieht ganz ok aus, obwohl ich zwei Wochen nur Errors hatte und konnte fasst gar nicht die App richtig designen. Aber ich hatte noch einen Problem und nämlich nach ein paar sekunden crashed die App. Und diesen Fehler konnte ich nicht beheben. 
+
+# Arbeitspakete für 31.01 
+- [ ] Crash fix
+- [ ] App weiter machen
+      
